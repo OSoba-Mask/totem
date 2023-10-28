@@ -1,2 +1,2 @@
 # totem
-doing something abstract
+Памятник человеческой лени
